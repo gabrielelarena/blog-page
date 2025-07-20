@@ -4,11 +4,7 @@ Um projeto desenvolvido para testar habilidades em desenvolvimento web e enrique
 
 ## 🔧 Tecnologias Utilizadas
 
-**HTML5** – estrutura da página
-
-**CSS3** – design e layout
-
-**Bootstrap** – componentes responsivos e estilização rápida
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
 
 ## 🖼️ Imagens
 
