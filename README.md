@@ -1,19 +1,19 @@
-# 🌾 Plantae
+<h1>🌿 Plantae</h1> 
+<p>Projeto criado em 2024 para treinar habilidades em desenvolvimento web e compor meu portfólio. O objetivo é apresentar um blog simples, funcional e totalmente responsivo.</p> 
 
-Um projeto desenvolvido para testar habilidades em desenvolvimento web e enriquecer o portfólio com uma página de blog responsiva e funcional - feito em 2024.
+<h2>🎯 Objetivo do Projeto</h2>
+<p>Criar um blog fictício sobre o mundo das plantas, contendo posts, imagens e conteúdo informativo apenas para fins demonstrativos. O projeto também serve como peça de portfólio, mostrando domínio de estruturação e responsividade.</p>
+  
+<h2>🔧 Tecnologias Utilizadas</h2> 
 
-## 🔧 Tecnologias Utilizadas
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev) 
+ 
+<h2>🖼️ Imagens</h2> 
+<p>As imagens utilizadas foram obtidas de bancos gratuitos:</p> 
+<ul> 
+  <li>Pixabay</li> 
+  <li>Pexels</li> 
+</ul> 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
-
-## 🖼️ Imagens
-
-Todas as imagens foram obtidas de bancos gratuitos:
-> [Pixabay](https://pixabay.com)
-
-> [Pexels](https://www.pexels.com)
-
-## 🗞️ Conteúdo
-
-As notícias apresentadas no blog foram retiradas de fontes externas e utilizadas apenas para fins de demonstração.
-
+<h2>🗞️ Conteúdo</h2> 
+<p>As notícias do blog foram retiradas de fontes externas e usadas apenas para fins de demonstração.</p> 
