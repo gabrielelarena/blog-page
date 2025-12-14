@@ -1,19 +1,50 @@
-<h1>🌿 Plantae</h1> 
-<p>Projeto criado em 2024 para treinar habilidades em desenvolvimento web e compor meu portfólio. O objetivo é apresentar um blog simples, funcional e totalmente responsivo.</p> 
+<div align="center">
 
-<h2>🎯 Objetivo do Projeto</h2>
+<img width="200" height="200" alt="galaxia" src="https://github.com/user-attachments/assets/e36ae22f-a200-4f03-b4b6-e8672b3b7a04" />
+<h1 align="center"><strong>BLOG PLANTAE</strong></h1>
+  <p align="center">
+	 Este é um projeto de Blog desenvolvido em HTML + BOOTSTRAP <br>
+  </p>
+
+</div>
+
+<br />
+
+## :computer: Tecnologias
+
+Este projeto contém as seguintes linguagens: 
+<br><br>
+[![My Skills](https://skillicons.dev/icons?i=html,bootstrap&theme=dark)](https://skillicons.dev) 
+
+</div>
+<br> 
+
+### 📄 Arquivos 
+
+- .html - páginas do site
+- readme.md - manual de uso do projeto 
+
+<br>
+
+## 📁 Estrutura de pastas
+
+```
+blog-page/
+        ├─ /  .html # páginas do projeto
+  ├─ img/          # imagens do projeto
+
+```
+
+<br> 
+
+## 🎯 Objetivo do Projeto
 <p>Criar um blog fictício sobre o mundo das plantas, contendo posts, imagens e conteúdo informativo apenas para fins demonstrativos. O projeto também serve como peça de portfólio, mostrando domínio de estruturação e responsividade.</p>
-  
-<h2>🔧 Tecnologias Utilizadas</h2> 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev) 
- 
-<h2>🖼️ Imagens</h2> 
-<p>As imagens utilizadas foram obtidas de bancos gratuitos:</p> 
-<ul> 
-  <li>Pixabay</li> 
-  <li>Pexels</li> 
-</ul> 
+<br>
 
-<h2>🗞️ Conteúdo</h2> 
-<p>As notícias do blog foram retiradas de fontes externas e usadas apenas para fins de demonstração.</p> 
+## 🔧 Pré-requisitos
+
+* **Vs Code**
+* **Pacotes de estilização do Bootstrap**
+
+<br>
