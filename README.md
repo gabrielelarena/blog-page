@@ -1,6 +1,7 @@
 <div align="center">
+	
+<img width="150" height="150" alt="download" src="https://github.com/user-attachments/assets/2e4f1b91-1d99-462b-968c-b088f4dc1c18" />
 
-<img width="200" height="200" alt="galaxia" src="https://github.com/user-attachments/assets/e36ae22f-a200-4f03-b4b6-e8672b3b7a04" />
 <h1 align="center"><strong>BLOG PLANTAE</strong></h1>
   <p align="center">
 	 Este é um projeto de Blog desenvolvido em HTML + BOOTSTRAP <br>
