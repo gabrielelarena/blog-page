@@ -23,7 +23,7 @@ Este projeto contém as seguintes linguagens:
 ### 📄 Arquivos 
 
 - .html - páginas do site
-- readme.md - manual de uso do projeto 
+- readme.md - informações do projeto 
 
 <br>
 
